@@ -1,5 +1,4 @@
 # i0n1: Python Accessible ctypes Libraries for iOS
-Here’s a detailed emoji warning to include in your script or display to users before execution. It highlights potential risks and outcomes with a mix of seriousness and clarity:
 
 ---
 
