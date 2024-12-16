@@ -1,4 +1,30 @@
 # i0n1: Python Accessible ctypes Libraries for iOS
+Here’s a detailed emoji warning to include in your script or display to users before execution. It highlights potential risks and outcomes with a mix of seriousness and clarity:
+
+---
+
+🚨 **WARNING: PROCEED WITH CAUTION!** 🚨
+
+This tool modifies system-level configurations and files.  
+Improper use or unforeseen errors **may cause irreversible damage** to your device.  
+
+### ⚠️ **Potential Risks** ⚠️
+- 🛑 **System Instability**: Device may become unresponsive or fail to boot.  
+- 💾 **Data Loss**: Personal files and apps might be deleted or corrupted.  
+- 🔒 **Security Vulnerabilities**: Changes may expose your device to external risks.  
+- 🧱 **Bricking Risk**: Permanent damage could render the device unusable.  
+
+### ✅ **What You Should Do** ✅
+- 📂 **Backup Everything**: Save your files and important data before proceeding.  
+- ⚙️ **Understand the Risks**: Only use this tool if you're experienced with system-level modifications.  
+- 📋 **Read Documentation**: Review all instructions and options carefully.  
+
+---
+
+🛠 **This tool is provided AS-IS with no warranty.**  
+We are **NOT responsible** for any damage, loss, or issues caused.  
+
+Press **Ctrl+C** to cancel or wait 10 seconds to proceed.  
 
 ## Table of Contents
 
