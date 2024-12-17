@@ -1,6 +1,7 @@
 # i0n1: Python Accessible ctypes Libraries for iOS
 
 ---
+Major WIP I suggest forking it and working witn the parts. I would start witb the security scripts then move to the library and installer.
 
 🚨 **WARNING: PROCEED WITH CAUTION!** 🚨
 
